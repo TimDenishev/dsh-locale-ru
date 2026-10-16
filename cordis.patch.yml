@@ -1,0 +1,4 @@
+# dsh-locale-ru: добавляет в профиль строку клиентского плагина с русским языком интерфейса.
+- insert:
+    - id: locale-ru
+      name: 'dsh-locale-ru'
